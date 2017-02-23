@@ -1,0 +1,1 @@
+Your image, {{ $user->name }}, has been updated!
